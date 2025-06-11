@@ -19,3 +19,10 @@ This is a frontend assignment project that simulates the solar system in 3D usin
 
 ## 📁 Folder Structure
 
+SolarSystem/
+├── index.html
+├── script.js
+├── README.md
+└── textures/
+
+
